@@ -42,8 +42,7 @@ You only do this **once**. After that, you’ll just run `pdftool` anytime.
 ### 2. Run the installer  
 ```bash
 bash install.sh
-```bash
-
+```
 ### 3. Allow storage access in Termux (only once):
 ```bash
 termux-setup-storage
