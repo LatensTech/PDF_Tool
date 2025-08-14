@@ -47,22 +47,21 @@ bash install.sh
 ### 3. Allow storage access in Termux (only once):
 ```bash
 termux-setup-storage
-```bash
+```
 
 ### 4. Done
 
 You can now run:
 ```bash
 pdftool
-```bash
+```
 
 ### Where it saves your files
 
 Everything you make lands in:
 ```bash
 Documents/Potentia
-```bash
-
+```
 on your phone’s storage. Always easy to find.
 
 ### Potentia Promise
