@@ -6,7 +6,7 @@ import fitz  # PyMuPDF
 from pathlib import Path
 
 # ======== CONFIG ========
-BASE_SAVE = "/storage/emulated/0/Documents/Potentia"
+BASE_SAVE = os.path.expanduser("~/storage/documents/Potentia")
 os.makedirs(BASE_SAVE, exist_ok=True)
 
 # ======== HELPERS ========
