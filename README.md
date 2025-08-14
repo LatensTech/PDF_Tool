@@ -1,4 +1,4 @@
-# **Potentia PDF Tool - Image to pdf converter**  
+# **Potentia PDF Tool - Image to PDF converter**  
 _Your documents. Your rules._  
 
 ---
